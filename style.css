@@ -1,0 +1,18 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  text-align: center;
+  font-family: monospace;
+  background-color: #a7a7a7;
+}
+
+h1{
+  color: #02fc06;
+}
+
+img{
+  width: 50%;
+}
